@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Em biết mà 🥰. Người gì đâu DỄ THƯƠNG QUÁ ĐI À  😘 :3',
     messDesc: 'Ngại gì không nhắn cho CHAN CHAN Đáng iu siêu cấp vũ trụ ngayy :3 ',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://zalo.me/0865014421' //link mess của các bạn. VD: https://m.me/nam.nodemy
+
 }
